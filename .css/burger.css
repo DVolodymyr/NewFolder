@@ -1,36 +1,7 @@
-@font-face {
-  font-family: Raleway;
-  src: url(../fonts/Raleway-Regular.ttf);
-}
-
-@font-face {
-  font-family: OpenSans-Regular;
-  src: url(../fonts/OpenSans-Regular.ttf);
-}
-
-@font-face {
-  font-family: Pacifico;
-  src: url(../fonts/Pacifico.ttf);
-}
-
-@font-face {
-  font-family: Roboto-Black;
-  src: url(../fonts/Roboto-Black.ttf);
-}
-
-@font-face {
-  font-family: Raleway-Heavy;
-  src: url(../fonts/Raleway-Heavy.ttf);
-}
-
-@font-face {
-  font-family: Raleway-Bold;
-  src: url(../fonts/Raleway-Bold.ttf);
-}
-
-@font-face {
-  font-family: Raleway-Light;
-  src: url(../fonts/Raleway-Light.ttf);
+a {
+  color: #242e31;
+  text-decoration: none;
+  font-weight: 600;
 }
 
 .icon-menu {
